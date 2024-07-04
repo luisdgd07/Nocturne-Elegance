@@ -3,11 +3,11 @@
 Immerse yourself in the world of coding with Nocturne Elegance, the ultimate dark theme for Visual Studio Code. Designed to provide a serene and stylish programming experience, this theme combines deep and vibrant tones to reduce eye strain and improve your focus during long night-time coding sessions.
 
 ## Screenshots
-![First Screen](img/Screenshot1.png)
+![First Screen](Screenshot1.png)
 
-![First Screen](img/Screenshot2.png)
+![First Screen](Screenshot2.png)
 
-![First Screen](img/Screenshot3.png)
+![First Screen](Screenshot3.png)
 
 ## 🎨 Key Features:
 Perfect Contrasts: Carefully selected colors to provide optimal contrast and minimize eye fatigue.
