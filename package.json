@@ -1,0 +1,32 @@
+{
+  "name": "nocturne-elegance",
+  "displayName": "Nocturne Elegance - VS Code Dark Theme",
+  "publisher": "LuisDavidGonzalez",
+  "description": "Immerse yourself in the world of coding with Nocturne Elegance.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "Dark Theme",
+    "Accessible Theme"
+  ],
+  "author": {
+    "name": "Luis David Gonzalez"
+  },
+  "icon": "logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nocturne Elegance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nocturne Elegance.json"
+      }
+    ]
+  }
+}
